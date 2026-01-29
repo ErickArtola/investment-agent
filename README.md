@@ -107,14 +107,12 @@ investment-agent/
 ├── README.md                            # This file
 ├── requirements.txt                     # Python dependencies
 ├── Companies-AI-Initiatives/            # Knowledge base (PDFs)
-│   ├── GOOGL.pdf
-│   ├── MSFT.pdf
-│   ├── IBM.pdf
-│   ├── NVDA.pdf
-│   └── AMZN.pdf
-└── docs/
-    ├── MLOps_Production_Guide.md       # Production deployment guide
-    └── NOTEBOOK_SUMMARY.md             # Technical summary
+    ├── GOOGL.pdf
+    ├── MSFT.pdf
+    ├── IBM.pdf
+    ├── NVDA.pdf
+    └── AMZN.pdf
+
 ```
 
 ---

@@ -132,7 +132,7 @@ investment-agent/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/investment-agent.git
+   git clone https://github.com/ErickArtola/investment-agent.git
    cd investment-agent
    ```
 

@@ -106,12 +106,8 @@ investment-agent/
 ├── config.json                          # API configuration
 ├── README.md                            # This file
 ├── requirements.txt                     # Python dependencies
-├── Companies-AI-Initiatives/            # Knowledge base (PDFs)
-    ├── GOOGL.pdf
-    ├── MSFT.pdf
-    ├── IBM.pdf
-    ├── NVDA.pdf
-    └── AMZN.pdf
+├── Companies-AI-Initiatives.zip         # Knowledge base (PDFs)
+
 
 ```
 

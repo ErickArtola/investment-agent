@@ -102,7 +102,7 @@ This architecture enables:
 
 ```
 investment-agent/
-├── JHU_AgenticAI_Project_1_Learners_Notebook.ipynb
+├── investment-agent-notebook.ipynb
 ├── config.json                          # API configuration
 ├── README.md                            # This file
 ├── requirements.txt                     # Python dependencies

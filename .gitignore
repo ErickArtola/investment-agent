@@ -57,6 +57,9 @@ Thumbs.db
 *.pickle
 chroma_data/
 __pycache__/
+data/vectordb/
+data/investment.db
+opening.rtf
 
 # IDE settings
 .vscode/settings.json
